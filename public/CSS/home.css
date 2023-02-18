@@ -3,10 +3,10 @@
 }
 
 body {
-  background-color: #483c32;
+  background-color: #0fafaf;
   font-family: Arial, Helvetica, sans-serif;
   padding: 20px;
-  color: #757f88;
+  color: #0fafaf;
 }
 
 h1 {
@@ -20,14 +20,14 @@ h1 {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background-image: url(../img/IMG_1769.jpeg);
+  background-image: url(../img/IMG_6988.jpeg);
   background-size: contain;
   background-repeat: initial;
   border-radius: 30px;
 }
 
 .heading {
-  color: #fff;
+  color: blanchedalmond;
   text-transform: capitalize;
   font-size: 80px;
   line-height: 60px;
@@ -37,7 +37,7 @@ h1 {
 .heading .no-fill {
   font-style: italic;
   color: transparent;
-  -webkit-text-stroke: 2px #fff;
+  -webkit-text-stroke: 2px blanchedalmond;
 }
 
 .leftcolumn {
