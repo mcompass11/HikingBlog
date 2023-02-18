@@ -1,1 +1,1 @@
-# HikingBlog
+# MyTravelBlog
